@@ -3,7 +3,7 @@ package selfupdate
 import (
 	"io"
 
-	"github.com/minio/selfupdate/internal/binarydist"
+	"github.com/hailaz/selfupdate/internal/binarydist"
 )
 
 // Patcher defines an interface for applying binary patches to an old item to get an updated item.

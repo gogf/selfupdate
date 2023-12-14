@@ -1,4 +1,4 @@
-[![API Reference](https://img.shields.io/badge/api-reference-blue.svg)](https://pkg.go.dev/github.com/minio/selfupdate?tab=doc) [![Apache V2 License](https://img.shields.io/badge/license-Apache%20V2-blue.svg)](https://github.com/minio/selfupdate/blob/master/LICENSE)
+[![API Reference](https://img.shields.io/badge/api-reference-blue.svg)](https://pkg.go.dev/github.com/minio/selfupdate?tab=doc) [![Apache V2 License](https://img.shields.io/badge/license-Apache%20V2-blue.svg)](https://github.com/hailaz/selfupdate/blob/master/LICENSE)
 
 # selfupdate: Build self-updating Go programs
 
@@ -44,4 +44,5 @@ func doUpdate(url string) error {
 - Support for updating arbitrary files
 
 ## License
+
 This SDK is distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0), see LICENSE for more information. Original work was also distributed under the same license.
