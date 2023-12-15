@@ -3,7 +3,7 @@ package selfupdate
 import (
 	"io"
 
-	"github.com/hailaz/selfupdate/internal/binarydist"
+	"github.com/gogf/selfupdate/internal/binarydist"
 )
 
 // Patcher defines an interface for applying binary patches to an old item to get an updated item.

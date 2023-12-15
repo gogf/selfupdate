@@ -10,7 +10,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/hailaz/selfupdate/internal/osext"
+	"github.com/gogf/selfupdate/internal/osext"
 )
 
 // Apply performs an update of the current executable or opts.TargetFile, with

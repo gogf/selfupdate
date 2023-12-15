@@ -12,7 +12,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/hailaz/selfupdate/internal/binarydist"
+	"github.com/gogf/selfupdate/internal/binarydist"
 )
 
 var (
